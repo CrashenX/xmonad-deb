@@ -1,0 +1,15 @@
+Source: czx-xmonad-config
+Section: x11
+Priority: extra
+Maintainer: Jesse J. Cook <crashenx@gmail.com>
+Build-Depends: cdbs, debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: https://github.com/CrashenX
+Vcs-Git: git://github.com/CrashenX/xmonad.git
+Vcs-Browser: https://github.com/CrashenX/xmonad
+
+Package: czx-xmonad-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: config files for xmonad
+ custom config files for xmonad configuration

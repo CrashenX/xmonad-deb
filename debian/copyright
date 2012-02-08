@@ -1,0 +1,25 @@
+This work was packaged for Debian by:
+
+    Jesse J. Cook <crashenx@gmail.com> on Tue, 07 Feb 2012 22:09:58 -0600
+
+It was downloaded from:
+
+    git://github.com/CrashenX/xmonad.git
+
+Upstream Author(s):
+
+    Jesse J. Cook <crashenx@gmail.com>
+
+Copyright:
+
+    Copyright (C) 2012 Jesse J. Cook <crashenx@gmail.com>
+
+License:
+
+The Debian packaging is:
+
+    Copyright (C) 2012 Jesse J. Cook <crashenx@gmail.com>
+
+and is licensed under the same license as xmonad (BSD3),
+see "/usr/share/common-licenses/BSD".
+
